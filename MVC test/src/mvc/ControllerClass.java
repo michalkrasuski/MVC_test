@@ -20,7 +20,10 @@ public class ControllerClass {
 	
 	
 	@FXML private void initialize() {
-		arg1.setText("1");
+		arg1.setText("0");
+		arg2.setText("0");
+		wynik.setText("0");
+		
 	}
 	
 	@FXML private void wylicz(){
